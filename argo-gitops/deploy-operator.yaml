@@ -4,7 +4,7 @@ metadata:
   name: modresorts-container
   namespace: rlange
 spec:
-  applicationImage: rlangehennig/modresorts:d1c5b986
+  applicationImage: rlangehennig/modresorts:ad3dfddd
   expose: true
   manageTLS: false
   replicas: 1
