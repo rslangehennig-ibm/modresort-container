@@ -23,5 +23,5 @@ jobs:
         #hostname: '${{ secrets.DEVOPS_DEPLOY_SERVER }}'
         hostname: 'devops.mycluster-mon01-b3c-4x16-cb2fa44b08d68f0ed76d7db379272825-0000.us-east.containers.appdomain.cloud/deploy'
         #port: '${{ secrets.DEVOPS_DEPLOY_SERVER_PORT }}'
-        port: '443'
+        port: '8443'
         authToken: '${{ secrets.DEVOPS_DEPLOY_AUTHTOKEN }}'
