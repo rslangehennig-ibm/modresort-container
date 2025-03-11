@@ -26,5 +26,5 @@ jobs:
         #hostname: '169.62.212.57'
         #port: '${{ secrets.DEVOPS_DEPLOY_SERVER_PORT }}'
         #port: '8444'
-        port: '8443'
+        port: '443'
         authToken: '${{ secrets.DEVOPS_DEPLOY_AUTHTOKEN }}'
