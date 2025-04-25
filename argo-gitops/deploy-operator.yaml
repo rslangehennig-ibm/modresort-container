@@ -7,7 +7,8 @@ spec:
   # broken image
   #applicationImage: rlangehennig/modresorts:89bdffaa
   # good image
-  applicationImage: rlangehennig/modresorts:2b9e208a
+  #applicationImage: rlangehennig/modresorts:2b9e208a
+  applicationImage: rlangehennig/modresorts:cd662abd
   expose: true
   manageTLS: false
-  replicas: 4
+  replicas: 1
