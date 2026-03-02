@@ -9,7 +9,8 @@ spec:
   #applicationImage: rlangehennig/modresorts:cd662abd
   # good image
   #applicationImage: rlangehennig/modresorts:2b9e208a
-  applicationImage: rlangehennig/modresorts:9dd91ea8
+  #applicationImage: rlangehennig/modresorts:9dd91ea8
+  applicationImage: rlangehennig/modresorts:89bdffaa
   expose: true
   manageTLS: false
-  replicas: 2
+  replicas: 1
