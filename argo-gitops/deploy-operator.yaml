@@ -5,11 +5,11 @@ metadata:
   namespace: rlange
 spec:
   # broken image
-  #applicationImage: rlangehennig/modresorts:89bdffaa
+  applicationImage: rlangehennig/modresorts:89bdffaa
   #applicationImage: rlangehennig/modresorts:cd662abd
   # good image
-  applicationImage: rlangehennig/modresorts:2b9e208a
+  #applicationImage: rlangehennig/modresorts:2b9e208a
   #applicationImage: rlangehennig/modresorts:9dd91ea8
   expose: true
   manageTLS: false
-  replicas: 3
+  replicas: 1
